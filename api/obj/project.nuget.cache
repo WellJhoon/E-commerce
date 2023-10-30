@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aTJPAUSNu5L0Np7PvtT6lfAd/RnlLhZze3xTg07Uwl14/hHXpoDMTtf49yGvDEVD71XLS7PHbzwfoSVCdj+Pqw==",
+  "dgSpecHash": "041Kzw+W0h+o84GCvE1QE1U3jdZSvgirvvcmeW1zxGMnVyHgS4IloKk5/h2c9YYra9niSHrwkT4T1WiOgFhaiw==",
   "success": true,
   "projectFilePath": "D:\\Development\\.net_angular_course\\api\\api.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Jhon Medina\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.13\\microsoft.entityframeworkcore.relational.7.0.13.nupkg.sha512",
     "C:\\Users\\Jhon Medina\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.13\\microsoft.entityframeworkcore.sqlite.7.0.13.nupkg.sha512",
     "C:\\Users\\Jhon Medina\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.13\\microsoft.entityframeworkcore.sqlite.core.7.0.13.nupkg.sha512",
+    "C:\\Users\\Jhon Medina\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.13\\microsoft.entityframeworkcore.tools.7.0.13.nupkg.sha512",
     "C:\\Users\\Jhon Medina\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Jhon Medina\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Jhon Medina\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

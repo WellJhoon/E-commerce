@@ -1,7 +1,5 @@
 using api.Entities;
 using Microsoft.EntityFrameworkCore;
-
-
 namespace api.Data
 {
     public class StorageContext : DbContext
