@@ -2,15 +2,14 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using api.Data;
+
 
 #nullable disable
 
-namespace api.Data.Migrations
+namespace Infraestructure.Data.Migrations
 {
     [DbContext(typeof(StorageContext))]
-    [Migration("20231030005122_InitialCreate")]
+    [Migration("20231030065828_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -25,12 +24,13 @@ namespace api.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("Name")
-                        .HasColumnType("INTEGER");
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Producs");
+                    b.ToTable("Products");
                 });
 #pragma warning restore 612, 618
         }
